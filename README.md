@@ -9,4 +9,4 @@
 + DB : PostgreSQL
 + BackEnd : Django, GDAL, Docker
 + Cloud : AWS(S3, EC2)
-+ FrontEnd : Nuxt.js, Openalyers, Potree.js, Docker
++ FrontEnd : Nuxt.js, Openlayers, Potree.js(three.js), Docker
