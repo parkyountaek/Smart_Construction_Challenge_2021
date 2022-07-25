@@ -6,7 +6,7 @@
 - url: https://drive.google.com/file/d/1C2a3msLYIwCj-n0o_eSKaNiHuXfIP9rq/view?usp=sharing
 
 ## 사용 스킬
-+ DB : PostgreSQL
 + BackEnd : Django, GDAL, Docker
-+ Cloud : AWS(S3, EC2)
-+ FrontEnd : Nuxt.js, Openlayers, Potree.js(three.js), Docker
++ Cloud : AWS(S3, EC2, RDS(PostgreSQL))
++ FrontEnd : Nuxt.js, Openlayers, Potree.js(three.js)
++ Etc : Docker
